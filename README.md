@@ -2,7 +2,7 @@
 Stubs Java objects with Fake data using the [Mockito framework](https://github.com/mockito/mockito) and 
 [Faker](https://github.com/blocoio/faker) (A Java port of the Faker ruby gem: [faker](https://github.com/stympy/faker))
 
-[![Build Status](https://travis-ci.org/fackito/fackito.svg?branch=master)](https://travis-ci.org/fackito/fackito) [![MIT License](http://img.shields.io/badge/license-MIT-green.svg) ](https://github.com/fackito/fackito/blob/master/LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-green.svg) ](https://github.com/fackito/fackito/blob/master/LICENSE)
 ## Why?
 Fackito's makes testing easier and better! by
 1. increasing test development speed and
